@@ -64,3 +64,4 @@ Exibir o relatório de execução:
 ```sh
 npx playwright show-report
 ```
+*By QA Week - Bee Lab*
